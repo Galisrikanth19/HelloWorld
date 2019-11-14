@@ -1,0 +1,9 @@
+Change Display name
+Change Bundle identifier in plist
+Add device support and orientation support
+Add MVC Folder
+Add Supporting files folder
+Remove unnecessary code and spaces from classes
+Build appicon from mac-application(icon set creator)
+Add "Status bar is initially hidden" as "YES" in plist to hide status bar in launch screen
+Add "View controller-based status bar appearance" as "NO" in plist to hide status bar in viewcontrollers
