@@ -12,5 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        printBranch()
+    }
+    
+    func printBranch() {
+        print("In devlop")
     }
 }
